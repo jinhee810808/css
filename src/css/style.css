@@ -1,0 +1,21 @@
+body{
+    margin:0;
+}
+.longitude {
+    display : flex;
+    list-style: none;
+    margin: 0;
+}
+
+header .above{
+    background-color:#3f63bf;
+    color:white;
+    display:flex;
+    justify-content : space-between;
+
+    padding : 10px 20px 10px 20px; /* 위 오른쪽 아래 왼쪽 순서*/
+}
+
+header .above .left {
+    display:flex;
+}
